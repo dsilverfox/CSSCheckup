@@ -1,0 +1,30 @@
+.main {
+    margin: 5px;
+    text-align: center;
+    background-color: lightgray;
+    width: 100%;
+}
+.main p {
+    font-size: larger;
+}
+#picture {
+    height: 50%;
+    width: 50%;
+    border-style: dashed;
+    border-color: darkblue;
+    float: right; 
+    
+}
+.text {
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+}
+p{
+    font-style: italic;
+}
+.border {
+    border-style: ridge;
+    border-color: darkcyan;
+    width: 50%
+}
